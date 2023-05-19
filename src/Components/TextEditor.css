@@ -1,0 +1,14 @@
+.editorContainer{
+    width: 100vw;
+}
+.editorClassName{
+    padding: 0px 10px;
+
+}
+.saveTextcontainer{
+    padding: 10px;
+
+}
+.mainEditorcontainer{
+    height: 100vh;;
+}
